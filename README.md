@@ -1,2 +1,2 @@
 # HelloWorldWeb
-Web based project using spring, Rest &amp; java
+Web based project using Spring, Rest &amp; java
