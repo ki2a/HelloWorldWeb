@@ -3,11 +3,11 @@ spring:
         password: password
         url: jdbc:h2:dev
         username: SA
-    JDBCConnectionCount: 20
+    JDBCConnectionCount: 22
     application:
       name: prodcatalog
 
-ConnectionCount: 30
-WorkerThreadCount: 25
+ConnectionCount: 21
+WorkerThreadCount: 18
 server:
   port: 6004
