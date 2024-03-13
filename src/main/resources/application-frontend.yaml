@@ -1,0 +1,12 @@
+spring:
+    datasource:
+        password: password
+        url: jdbc:h2:dev
+        username: SA
+    JDBCConnectionCount: 20
+    application:
+      name: frontend
+ConnectionCount: 30
+WorkerThreadCount: 25
+server:
+  port: 6004
